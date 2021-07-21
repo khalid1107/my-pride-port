@@ -391,14 +391,14 @@ nav :hover{
 footer{
     background-color: #e75b1e;
     height: 70px;
-    border-top: 2px dotted white;
+    border-top: 2px solid white;
 
 }
 .section-10 input {
-    border: 2px dotted rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
 }
 .section-10 span {
-    border: 2px dotted rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
 }
 
 .menu-button{
